@@ -18,4 +18,4 @@ As I grew older and older, I became more and more conscious of the fact that I s
 
 [This Website](https://zoewhat.github.io/) is still under construction. I will revise the writing and try to be more professional with words when I'm ready content-wise.
 
-In `the previous update`, I created this webpage and modified the tags on the hoome page. In `the next update`, I will post the first project, where I create a cyberpunk ink painting with structures in NYC.
+In `the previous update`, I created this webpage and modified the tags on the home page. In `the next update`, I will post the first project, a cyberpunk ink painting with structures in NYC.
