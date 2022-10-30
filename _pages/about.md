@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: NYC, NY 10027, [for now]
+subtitle: NYC, NY 10027, <a href='#'>for now</a>
 
 profile:
   align: right
