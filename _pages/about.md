@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Boston, MA 02215, <a href='#'>for now</a>
+subtitle: Boston, MA 02215, for now
 
 profile:
   align: right
