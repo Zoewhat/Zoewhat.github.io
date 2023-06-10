@@ -2,11 +2,74 @@
 layout: page
 permalink: /queries/
 title: queries
-description: Materials for courses you taught. Replace this text with your description.
+description: Below are questions from the past worth exploring in the future.
 nav: true
 nav_order: 5
 ---
+`社会`
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+`1/` “惩罚犯罪者不是受害者的责任”这句话表达了怎样的社会观？
 
-Organize your courses by years, topics, or universities, however you like!
+`2/` 现在的动荡之地多是以前帝国的边疆吗？
+
+`3/` 蒙古的大一统具体对贸易的自由产生了什么影响？
+
+`4/` 在历史上，国民党是怎样通过发起民族主义文学运动去对抗共产党的？而后者又是什么时候把民族主义内化的？
+
+`5/` 各早期文化下的理性女性形象是不是都经历了从丰乳肥臀到elegancy的演变？性感在不同文化中的定义都是怎样的？
+
+`艺术`
+
+`1/` 是我的错觉还是11世纪之后各个文化中的artifacts都开始变得更加contextual了，更难让其他文化里的人共情了？
+
+`2/` 汉代与古埃及在类平面雕塑及绘画上有可比性吗？
+
+`3/`辽金木雕和中世纪木雕之间有可比性吗？
+
+`4/` “pattern”在艺术中意味着什么？
+
+`5/` 雕像和人像绘画是不是经历了从泛指到特指的过程？
+
+`文化`
+
+`1/` 单方面的理解意味着什么？
+
+`2/` 幽默的底色是自知之明吗？
+
+`3/` 在建立能与宏大叙事相抗衡的个人叙事时，如何才能避免被局限在个人活历史的琐碎里？
+
+`4/` bystander effect 可以用来论证共同意识吗？
+
+`5/` 解离是什么？
+
+`6/` 情绪对于早期文明意味着什么？为什么那时的雕塑/绘画作品中的人都是平静的？如果喜怒哀乐并非那时人们状态的主要坐标的话，那时的人存在状态的坐标是什么？我可不可以说形象记录的是存在本身，而情绪记录的是事件呢？
+
+`7/` 世界上各个“metropolitan museum”之间的异同是什么？他们的藏品有什么样的bias呢？
+
+`8/` 人是什么时候开始相信有普世价值/有道德判官存在的？这和文化极权之间是什么关系？
+
+`宗教`
+
+`1/` 为什么人们崇敬的神从动物图腾逐渐演变成了人？
+
+`2/`在人本主义被人工智能消解之后，宗教会发生怎样的变化？
+
+`3/`为什么我不相信神，但是我相信别人的信仰？这两者是冲突的吗？
+
+`4/`佛教对“地狱”的诠释的演变是佛教为了自身传播而激发出的coping mechanism吗？
+
+`5/`世界上不同文化对是否为神塑像的观点的演变是怎样的？
+
+`6/`宗教决定文化是一个所谓西方世界观吗？
+
+
+
+
+
+
+
+
+
+
+
+
