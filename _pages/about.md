@@ -6,7 +6,7 @@ subtitle: New York City, NY 10031
 
 profile:
   align: right
-  image: prof_pic.jpeg
+  image: zoez.jpeg
   image_circular: false # crops the image to make it circular
   address: >
 
