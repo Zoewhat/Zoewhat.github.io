@@ -14,6 +14,6 @@ news : true  # includes a list of news items
 
 ---
 
-As you from crimes would pa<span style="color:#c420b8;">r</span>doned be, 
+<span style="color:#c420b8;">As you from crimes would pardoned be,</span>
 
-let your ind<span style="color:#c420b8;">u</span>lge<span style="color:#c420b8;">n</span>ce set me free.
+<span style="color:#c420b8;">let your indulgence set me free.</span>
