@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-6-5 15:59:00-0400
+date: 2023-10-17 8:52:00-0400
 inline: true
 ---
 
-Webpage Restructuring
+Reading in Progress / Movie in Line: The World of Yesterday / 君たちはどう生きるか
