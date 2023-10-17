@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: New York City, NY 02215
+subtitle: New York City, NY 10031
 
 profile:
   align: right
