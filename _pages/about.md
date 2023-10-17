@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <span style="color:#c420b8;">New York City, NY 10031</span>
+subtitle: New York City, NY 10031
 
 profile:
   align: right
