@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: New York City, NY 10031
+subtitle: <span style="color:#c420b8;">New York City, NY 10031</span>
 
 profile:
   align: right
@@ -16,4 +16,4 @@ news : true  # includes a list of news items
 
 As you from crimes would pardoned be，
 
-let your indulgence <span style="color:#c420b8;">set me free</span>。
+let your indulgence set me free。
