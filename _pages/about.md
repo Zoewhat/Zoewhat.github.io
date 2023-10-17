@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Boston, MA 02215, for now
+subtitle: New York City, NY 02215
 
 profile:
   align: right
@@ -14,4 +14,4 @@ news : true  # includes a list of news items
 
 ---
 
-[This Website](https://zoewhat.github.io/) is still under construction. 
+As you from crimes would pardoned be, let your indulgence set me free.
