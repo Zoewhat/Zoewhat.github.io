@@ -13,8 +13,14 @@ profile:
 
 ---
 
-Next in Line
-- The World of Yesterday 
-- 君たちはどう生きるか
-- Enhancing Student Engagement via RL and Eye-tracking
-- Ellis Island National Museum of Immigration
+`Next in Line`
+
+`1/` The World of Yesterday 
+
+`2/` 君たちはどう生きるか
+
+`3/` Enhancing Student Engagement via RL and Eye-tracking
+
+`4/` Ellis Island National Museum of Immigration
+
+
