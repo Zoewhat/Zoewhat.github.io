@@ -10,10 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
 
-news : true  # includes a list of news items
 
 ---
 
-As you from crimes would pardoned be，
-
-let your indulgence set me free。
