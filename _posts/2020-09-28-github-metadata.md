@@ -1,35 +1,37 @@
 ---
 layout: post
-title:  a post with github metadata
-date: 2020-09-28 21:01:00
-description: a quick run down on accessing github metadata.
-categories: sample-posts external-services
+title:  艾珀
+date: 2021-03-21 00:00:00
+tags: stories
 ---
 
-A sample blog page that demonstrates the accessing of github meta data.
+“你要走了？” 艾珀来的时候，我正在打点行李。我背对着她，把最后一个行李箱扣好，用最平静的语气，“嗯”了一声。
 
-## What does Github-MetaData do?
-* Propagates the site.github namespace with repository metadata
-* Setting site variables :
-  * site.title
-  * site.description
-  * site.url
-  * site.baseurl
-* Accessing the metadata - duh.
-* Generating edittable links.
+“你为什么走？”艾珀问。我为什么走和我为什么来一样，因为对将要离开的地方没有什么舍不得。我当然没有这么和她讲。虽然我很想伤害她，却仍自私地希望她会舍不得我。所以含混地答，“我也不知道。”
 
-## Additional Reading
-* If you're recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.
-* Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.
-* <a href= "https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
-<br />
+今天大概是我一次见艾珀了。我原本想在楼下便利店给她随便买个什么作为分别礼物的，但她来早了，我没有机会送她礼物了。
 
-## Example MetaData
-* Host Name : {{ site.github.hostname }}
-* URL : {{ site.github.url }}
-* BaseURL : {{ site.github.baseurl }}
-* Archived : {{ site.github.archived}}
-* Contributors :
-{% for contributor in site.github.contributors %}
-  * {{ contributor.login }}
-{% endfor %}
+“你今天过的怎样？”我们在这个房间里沉默地太久了，我有些不舒服，便努力没话找话。“你走不了的。” 艾珀没有理会我的问题，直勾勾地看着我的眼睛，自顾自地说。我有些不悦，对她微微皱起眉头。许久，她终于把视线从我身上移开，平静地看着窗外，缓缓地说，“你还会爱我吗？”
+
+我何曾爱过她。只不过是自己能去的地方太少，又没有读书的耐心，便假借恋爱的名义，从她的身上了解世界罢。
+
+最初会喜欢艾珀是因为她是比我美丽太多的女人。不论认识艾珀多久，你永远都拿不准她的年龄和喜好。我不是唯一一个猜不到她谜底的人，我怀疑甚至连她自己也不清楚。但另一方面，随着相处，我慢慢发现艾珀又是个十分确切的人。她从出生起就住在这个小镇上，在这里读书，在这里工作，又和一个镇上的人结了婚。她像是《海上钢琴师》里那个只存在于船上的一九零零，决了心永远属于这个巴掌大的地方。久而久之，她这种强烈的归属感让我觉得无趣。无趣让人不再有解迷的兴趣，也从根本上否定了谜语。
+
+“我不知道。”沉默了很久以后，我终于又同样几个字回答了她，末了还不忘加上，“但我会永远喜欢你的。”
+
+“但我会永远喜欢你”是句暗语。它意味着我今后再不会和她联系，也预示着多年以后当我突然回忆起曾经的美好时，会开始莫名其妙地厌恶她。
+
+艾珀突然轻轻地笑了。她在笑什么呢？她笑是因为觉得美好还是觉得我可笑，还是说她已经预料到了我会偷偷恨她？艾珀刚刚说我走不了的，可我的行李已经打点好了，我的飞机将在五个小时以后准时起飞，她为什么会觉得我是走不了的？她难道以为我会永远惦念着她吗？
+
+我必须离开了。“没有什么舍不得的”是一个不稳定均衡点。稍有迟疑，我或许就真的走不了了。临走前，艾珀送了我一罐用酸奶瓶装的盐。她说看我喜欢吃盐，便送了一罐给我。我想我们之间可能有很深的误会。她做的饭一点味道也没有，除了加盐，我实在没有别的办法。
+
+我匆匆告别了艾珀，拖着行李箱向计程车走去。
+
+飞机起飞了，看着眼下越来越小的土地，我感觉自己像重获自由的肖申克。
+
+气流在颠簸它的。很久以后，我终于能睡着了。
+
+再睁眼时，尖方镇的阳光从窗外暖暖地洒了进来。
+
+我只剩最后一点行李需要收拾了。等搭上今天下午五点的飞机，我就能永远离开了。
+
